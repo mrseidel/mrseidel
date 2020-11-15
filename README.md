@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+If you are a student of mine and you are looking for your class repository, you can go [here](https://github.com/johnfraserss).  Find your class, then go to the Wiki for it.
+
+- 🔭 I’m currently working on rebuilding my website using Pico CMS instead of all the heavy CMS options out there.
+
 <!--
 **mrseidel/mrseidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
