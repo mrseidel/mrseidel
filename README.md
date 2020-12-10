@@ -5,6 +5,8 @@ If you are a student of mine and you are looking for your class repository, you 
 - 🔭 I’m currently working on rebuilding my website using Pico CMS instead of all the heavy CMS options out there.
 - 🌱 I’m currently learning [LaTeX](https://www.latex-project.org/)
 
+If you're looking for me on social media, I don't exist anywhere.  If you find someone with a username equal to (or similar) to mine, it isn't me.  It's been this way for over a year so far, and I don't miss any of them.
+
 <!--
 **mrseidel/mrseidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
