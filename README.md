@@ -3,7 +3,7 @@
 If you are a student of mine and you are looking for your class repository, you can go [here](https://github.com/johnfraserss).  Find your class, then go to the Wiki for it.
 
 - 🔭 I’m currently working on rebuilding my website using Pico CMS instead of all the heavy CMS options out there.
-- 🌱 I’m currently learning [LaTeX](https://www.latex-project.org/)
+- 🌱 I’m currently learning [LaTeX](https://www.latex-project.org/) (for fun) and [Twig](https://twig.symfony.com/doc/3.x/) (for use with PicoCMS).
 
 If you're looking for me on social media, I don't exist anywhere.  If you find someone with a username equal to (or similar) to mine, it isn't me.  It's been this way for over a year so far, and I don't miss any of them.
 
