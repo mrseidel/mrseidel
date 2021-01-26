@@ -2,10 +2,9 @@
 
 If you are a student of mine and you are looking for your class repository, you can go [here](https://github.com/johnfraserss).  Find your class, then go to the Wiki for it.
 
-- 🔭 I’m currently working on rebuilding my website using Pico CMS instead of all the heavy CMS options out there.
-- 🌱 I’m currently learning [LaTeX](https://www.latex-project.org/) (for fun) and [Twig](https://twig.symfony.com/doc/3.x/) (for use with PicoCMS).
-
-If you're looking for me on social media, I don't exist anywhere.  If you find someone with a username equal to (or similar) to mine, it isn't me.  It's been this way for over a year so far, and I don't miss any of them.
+- 🔭 I’m currently working on rebuilding my website using a flat file CMS instead of all the heavy CMS options out there.
+- 🌱 I’m currently learning [LaTeX](https://www.latex-project.org/) for fun.
+- ⚡ Fun fact: I don't use social media. See a username that is the same as this one? It isn't me.
 
 <!--
 **mrseidel/mrseidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
