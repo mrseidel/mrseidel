@@ -2,7 +2,7 @@
 
 If you are a student of mine and you are looking for your class repository, you can go [here](https://github.com/johnfraserss).  Find your class, then go to the Wiki for it.
 
-- 🔭 I’m currently working on rebuilding my website using a flat file CMS instead of all the heavy CMS options out there.
+- 🔭 I’m currently working on a top-secret project... shhh...
 - 🌱 I’m currently learning [LaTeX](https://www.latex-project.org/) for fun.
 - ⚡ Fun fact: I don't use social media. See a username that is the same as this one? It isn't me.
 
